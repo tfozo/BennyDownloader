@@ -1,0 +1,14 @@
+{
+  "name": "webtorrent",
+  "version": "1.0.0",
+  "main": "down.js",
+  "type": "module",
+  "scripts": {
+    "start": "node down.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "open": "^8.4.2",
+    "webtorrent": "^1.9.7"
+  }
+}
